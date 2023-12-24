@@ -1,4 +1,4 @@
-# Chihuahua Facts API -> Woof!
+# Chihuahua Woof API
 
 ## Introduction
 Welcome to the Chihuahua Facts API! This Flask-based API provides users with fun and interesting facts about Chihuahuas, accompanied by delightful, randomly selected Chihuahua images. It's perfect for dog lovers and those looking to brighten their day with some cute canine content.
